@@ -1,5 +1,3 @@
-# ensaio-machine-learning
-
 # Ensaio de Machine Learning
 ## Descrição
 A empresa Data Money acredita que a expertise no treinamento e ajuste
